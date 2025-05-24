@@ -1,4 +1,6 @@
-# secure-quarkus-service
+# Securing Quarkus Microservices via Kong API Gateway
+
+Read full article [here](https://www.djamware.com/post/68314685f2c03a59a8bfd09f/securing-quarkus-microservices-via-kong-api-gateway)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
